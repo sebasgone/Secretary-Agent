@@ -1,0 +1,107 @@
+{
+    "tratamientos_faciales": {
+      "limpieza_facial_profunda": {
+        "descripcion": "Procedimiento de limpieza profunda que elimina impurezas, células muertas y exceso de grasa. Se realiza con productos específicos según el tipo de piel y puede incluir exfoliación, extracción de puntos negros y aplicación de mascarillas hidratantes.",
+        "precio_aproximado": "S/ 250 - S/ 400"
+      },
+      "peeling_quimico": {
+        "descripcion": "Tratamiento de exfoliación química que ayuda a renovar la piel, eliminando capas superficiales dañadas. Se usa para tratar manchas, acné, arrugas finas y mejorar la textura de la piel. Existen diferentes tipos de peeling según la profundidad del tratamiento.",
+        "precio_aproximado": "S/ 350 - S/ 600"
+      },
+      "microdermoabrasion": {
+        "descripcion": "Técnica de exfoliación mecánica que utiliza cristales o puntas de diamante para eliminar células muertas y estimular la regeneración celular. Ideal para mejorar la textura de la piel, reducir manchas y minimizar poros abiertos.",
+        "precio_aproximado": "S/ 300 - S/ 500"
+      },
+      "botox": {
+        "descripcion": "Aplicación de toxina botulínica para relajar los músculos faciales y reducir la apariencia de arrugas y líneas de expresión. Se usa comúnmente en la frente, entrecejo y patas de gallo. Los efectos duran entre 4 y 6 meses.",
+        "precio_aproximado": "S/ 800 - S/ 1,500"
+      },
+      "rellenos_dermicos": {
+        "descripcion": "Inyección de ácido hialurónico para restaurar volumen en áreas como labios, pómulos y surcos nasogenianos. También se usa para mejorar la hidratación y elasticidad de la piel. Los resultados pueden durar entre 6 meses y 2 años.",
+        "precio_aproximado": "S/ 1,200 - S/ 2,500"
+      }
+    },
+    "tratamientos_corporales": {
+      "depilacion_laser": {
+        "descripcion": "Eliminación del vello no deseado mediante tecnología láser. Actúa sobre el folículo piloso para inhibir el crecimiento del vello de manera progresiva. Se recomienda realizar varias sesiones para obtener resultados óptimos.",
+        "precio_aproximado": "S/ 150 - S/ 500 por sesión"
+      },
+      "moldeamiento_corporal": {
+        "descripcion": "Procedimiento no invasivo que utiliza radiofrecuencia, ultrasonido o criolipólisis para reducir grasa localizada y mejorar la firmeza de la piel. Se recomienda para zonas como abdomen, muslos y brazos.",
+        "precio_aproximado": "S/ 850 - S/ 1,500"
+      },
+      "drenaje_linfatico": {
+        "descripcion": "Masaje terapéutico que estimula el sistema linfático para eliminar toxinas y reducir la retención de líquidos. Es ideal para mejorar la circulación, reducir inflamación y acelerar la recuperación postoperatoria.",
+        "precio_aproximado": "S/ 200 - S/ 400"
+      },
+      "tratamiento_anticelulitis": {
+        "descripcion": "Uso de tecnología como radiofrecuencia, cavitación o mesoterapia para reducir la apariencia de celulitis. Mejora la textura de la piel y estimula la producción de colágeno.",
+        "precio_aproximado": "S/ 600 - S/ 1,200"
+      }
+    },
+    "medicina_estetica": {
+      "plasma_rico_plaquetas": {
+        "descripcion": "Tratamiento regenerativo que utiliza plasma extraído de la propia sangre del paciente para estimular la producción de colágeno y elastina. Se usa para rejuvenecimiento facial, cicatrices y fortalecimiento capilar.",
+        "precio_aproximado": "S/ 900 - S/ 1,800"
+      },
+      "bioestimuladores_colageno": {
+        "descripcion": "Inyección de sustancias que estimulan la producción natural de colágeno, mejorando la firmeza y elasticidad de la piel. Se usa en rostro, cuello y manos para combatir la flacidez.",
+        "precio_aproximado": "S/ 1,500 - S/ 3,000"
+      },
+      "mesoterapia": {
+        "descripcion": "Aplicación de microinyecciones con vitaminas, minerales y ácido hialurónico para revitalizar la piel y mejorar su hidratación. Se usa en rostro, cuello y cuero cabelludo.",
+        "precio_aproximado": "S/ 400 - S/ 800"
+      },
+      "hilos_tensores": {
+        "descripcion": "Procedimiento mínimamente invasivo que utiliza hilos de polidioxanona para tensar la piel y estimular la producción de colágeno. Se usa para mejorar la firmeza del rostro y cuello.",
+        "precio_aproximado": "S/ 1,500 - S/ 3,500"
+      }
+    },
+    "cirugia_estetica": {
+      "liposuccion": {
+        "descripcion": "Procedimiento quirúrgico para eliminar depósitos de grasa localizada mediante succión. Se realiza en abdomen, muslos, brazos y espalda. Requiere recuperación postoperatoria.",
+        "precio_aproximado": "S/ 8,000 - S/ 15,000"
+      },
+      "rinoplastia": {
+        "descripcion": "Cirugía estética y funcional para modificar la forma y estructura de la nariz. Puede corregir desviaciones, mejorar la respiración y armonizar el rostro.",
+        "precio_aproximado": "S/ 10,000 - S/ 18,000"
+      },
+      "blefaroplastia": {
+        "descripcion": "Cirugía para rejuvenecer los párpados eliminando exceso de piel y bolsas de grasa. Mejora la apariencia de los ojos y reduce signos de envejecimiento.",
+        "precio_aproximado": "S/ 5,000 - S/ 15,000"
+      },
+      "abdominoplastia": {
+        "descripcion": "Procedimiento quirúrgico para eliminar exceso de piel y grasa en el abdomen, mejorando su firmeza y contorno. Se recomienda para pacientes con flacidez postembarazo o pérdida de peso.",
+        "precio_aproximado": "S/ 12,000 - S/ 20,000"
+      }
+    },
+    "tratamientos_capilares": {
+      "microinjerto_capilar": {
+        "descripcion": "Implante de folículos capilares para recuperar el cabello en zonas afectadas por alopecia. Se realiza con técnica FUE o FUT y requiere recuperación progresiva.",
+        "precio_aproximado": "S/ 8,000 - S/ 20,000"
+      },
+      "terapia_laser_capilar": {
+        "descripcion": "Estimulación del crecimiento capilar mediante láser de baja intensidad. Mejora la circulación sanguínea en el cuero cabelludo y fortalece los folículos.",
+        "precio_aproximado": "S/ 500 - S/ 1,500"
+      },
+      "mesoterapia_capilar": {
+        "descripcion": "Aplicación de nutrientes y factores de crecimiento en el cuero cabelludo para fortalecer el cabello y prevenir la caída.",
+        "precio_aproximado": "S/ 600 - S/ 1,200"
+      }
+    },
+    "evaluaciones_diagnosticos": {
+      "analisis_piel": {
+        "descripcion": "Evaluación dermatológica para determinar el tipo de piel y recomendar tratamientos adecuados. Se analiza hidratación, elasticidad y presencia de manchas.",
+        "precio_aproximado": "S/ 150 - S/ 300"
+      },
+      "consulta_dermatologica": {
+        "descripcion": "Diagnóstico y tratamiento de afecciones cutáneas como acné, rosácea, dermatitis y envejecimiento prematuro.",
+        "precio_aproximado": "S/ 200 - S/ 500"
+      },
+      "asesoramiento_estetico": {
+        "descripcion": "Consulta personalizada para recomendar procedimientos estéticos según las necesidades y expectativas del paciente.",
+        "precio_aproximado": "S/ 250 - S/ 600"
+      }
+    }
+  }
+ 
