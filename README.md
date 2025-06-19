@@ -114,6 +114,7 @@ Por favor, abre un issue para discutir un cambio importante antes de iniciarlo.
 ## ⚠ Notas
   
 - El proyecto es de uso educativo y demostrativo.
+- Ponerse en contacto con el desarrollador para una demo.
 
 ---
 
